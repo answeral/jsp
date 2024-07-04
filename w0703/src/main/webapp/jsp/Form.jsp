@@ -35,11 +35,6 @@
 			<br>
 			
 			
-			
-			
-			
-			
-			
 			<input type="submit" value="전송">
 	
 	</form>
